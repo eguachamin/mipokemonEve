@@ -1,0 +1,7 @@
+{
+  "name": "mipokemonEve",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
